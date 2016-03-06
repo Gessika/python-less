@@ -1,4 +1,4 @@
-# Visokosnij GOD
+# Visokosnij GOD - calculation HI year
 
 x = int(input())
 
